@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/1mP7PIbCC77n7oJy-BiuOkT2JEJLTQtmd/view?usp=sharing</string>
+					<string>https://github.com/every2003/every2003.github.io/blob/master/TXLiteAVDemo_Enterprise.7.9.7970_sign.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/every2003/every2003.github.io/raw/master/AppIcon512x512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/every2003/every2003.github.io/raw/master/AppIcon57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,9 @@
 				<key>bundle-identifier</key>
 				<string>com.tencent.fx.rtmpdemo2</string>
 				<key>bundle-version</key>
-				<string>7.9</string>
+				<string>7970</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>视频云工具包</string>
 				<key>title</key>
 				<string>视频云工具包</string>
 			</dict>
